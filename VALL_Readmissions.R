@@ -1,7 +1,3 @@
-# Woo Song
-# IST 707
-# Final Project
-
 ds <- file.choose()
 ds <- read.csv(ds
                    , header = TRUE
